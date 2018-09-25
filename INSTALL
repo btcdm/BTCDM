@@ -1,0 +1,9 @@
+Building BitcoinDominator
+
+See doc/readme-qt.rst for instructions on building BitcoinDominator QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BitcoinDominator.
+
+See doc/build-*.txt for instructions on building bitcoindominatord,
+the intended-for-services, no-graphical-interface, reference
+implementation of BitcoinDominator.
